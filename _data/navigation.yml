@@ -1,8 +1,8 @@
 - name: Home
-  link: /
+  link: https://fujibayashiyuya.github.io/fbi_blog/
 - name: About
-  link: /about.html
+  link: https://fujibayashiyuya.github.io/fbi_blog/_site/about.html
 - name: Blog
-  link: /blog.html
+  link: https://fujibayashiyuya.github.io/fbi_blog/_site/blog.html
 - name: Staff
-  link: /staff.html
+  link: https://fujibayashiyuya.github.io/fbi_blog/_site/staff.html
